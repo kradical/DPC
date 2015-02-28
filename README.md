@@ -60,3 +60,19 @@ we all know the classic "guessing game" with higher or lower prompts. lets do a 
 2 - stopwatch
 
 Your mission is to create a stopwatch program. this program should have start, stop, and lap options, and it should write out to a file to be viewed later.
+
+203 - minecraft
+http://www.reddit.com/r/dailyprogrammer/comments/2xdqg0/2015227_challenge_203_hard_minecraft_there_and/
+Description:
+In the popular game Minecraft (http://en.wikipedia.org/wiki/Minecraft) you navigate a 3-D block world. Each block can be various types. You gather blocks to place blocks. More or less.
+Part of the challenge is navigating this world such that you have to mine down and be able to get back up. So for this challenge we will be throwing at you some combined challenges to solve. Users can select which level of involvement. If you feel you have time or ability solve which challenges you can.
+The 3 challenges to solve (Easy, Intermediate and Hard)
+Generate a 3-D Minecraft Map with a fixed starting point and fixed point for the goal.
+Navigate the map to find a shortest and safepath down and back again. (if possible)
+Generate a 3-D map with a fixed starting point but a random end point. You must develop an agent program to seek out the unknown goal safely and return.
+The Map
+To generate a world we are going to keep our minecraft world simple. Each block can be the following:
+Air - Basically nothing
+Dirt - Block which can be removed
+Sand - Block which can be removed but obeys differently than dirt
+Lava - Dangerous block which we have to avoid. *Diamond block - Our goal block we wish to mine that block and leave air.
