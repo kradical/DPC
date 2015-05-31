@@ -7,41 +7,41 @@ Projects with descriptions:
 
 ## EASY:
 
-1user input
+### 1user input
 
 create a program that will ask the users name, age, and reddit username. have it tell them the information back, in the format:
 your name is (blank), you are (blank) years old, and your username is (blank)
 for extra credit, have the program log this information in a file to be accessed later.
 
 
-2determinant calculator
+### 2determinant calculator
 
 Hello, coders! An important part of programming is being able to apply your programs, so your challenge for today is to create a calculator application that has use in your life. It might be an interest calculator, or it might be something that you can use in the classroom. For example, if you were in physics class, you might want to make a F = M * A calc.
 EXTRA CREDIT: make the calculator have multiple functions! Not only should it be able to calculate F = M * A, but also A = F/M, and M = F/A!
 
 
-3caesar cipher
+### 3caesar cipher
 
 Welcome to cipher day!
 write a program that can encrypt texts with an alphabetical caesar cipher. This cipher can ignore numbers, symbols, and whitespace.
 for extra credit, add a "decrypt" function to your program!
 
 
-4password generator
+### 4password generator
 
 You're challenge for today is to create a random password generator!
 For extra credit, allow the user to specify the amount of passwords to generate.
 For even more extra credit, allow the user to specify the length of the strings he wants to generate!
 
 
-5password protected
+### 5password protected
 
 Your challenge for today is to create a program which is password protected, and wont open unless the correct user and password is given.
 For extra credit, have the user and password in a seperate .txt file.
 for even more extra credit, break into your own program :)
 
 
-216TexasHoldem
+### 216TexasHoldem
 
 Theme Week:
 
@@ -79,13 +79,13 @@ In the intermediate you will be asked to compare various hands of poker to find 
 
 ## INTERMEDIATE:
 
-1scheduling app
+### 1scheduling app
 
 create a program that will allow you to enter events organizable by hour. There must be menu options of some form, and you must be able to easily edit, add, and delete events without directly changing the source code.
 (note that by menu i dont necessarily mean gui. as long as you can easily access the different options and receive prompts and instructions telling you how to use the program, it will probably be fine)
 
 
-215Network Sort
+### 215Network Sort
 
 When we computer programmers learn all about how computers sort lists of numbers, we are usually taught about sorting algorithms like Quicksort and Heapsort. There is, however, an entirely different model for how computers can sort numbers called sorting networks. Sorting networks are very useful for implementing sorting in hardware, and they have found a use for designing sorting algorithms in GPUs. Today, we are going to explore these strange and fascinating beasts.
 
@@ -158,15 +158,15 @@ Invalid network
 
 ## HARD:
 
-1guessing game
+### 1guessing game
 
 we all know the classic "guessing game" with higher or lower prompts. lets do a role reversal; you create a program that will guess numbers between 1-100, and respond appropriately based on whether users say that the number is too high or too low. Try to make a program that can guess your number based on user input and great code!
 
-2stopwatch
+### 2stopwatch
 
 Your mission is to create a stopwatch program. this program should have start, stop, and lap options, and it should write out to a file to be viewed later.
 
-203minecraft
+### 203minecraft
 http://www.reddit.com/r/dailyprogrammer/comments/2xdqg0/2015227_challenge_203_hard_minecraft_there_and/
 Description:
 In the popular game Minecraft (http://en.wikipedia.org/wiki/Minecraft) you navigate a 3-D block world. Each block can be various types. You gather blocks to place blocks. More or less.
