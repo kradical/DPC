@@ -1,9 +1,10 @@
 # DPC
+[![Language](https://img.shields.io/badge/language-python-brightgreen.svg?style=flat
+)](https://www.python.org)
+
 Daily Programming Challenge
 
 Organized by difficulty and then number!
-
-Projects with descriptions:
 
 ## EASY:
 
