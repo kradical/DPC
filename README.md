@@ -3,6 +3,8 @@ https://www.reddit.com/r/dailyprogrammer
 
 [![Language](https://img.shields.io/badge/language-python-brightgreen.svg?style=flat
 )](https://www.python.org)
+[![Language](https://img.shields.io/badge/language-rust-pink.svg?style=flat
+)](https://www.rust-lang.org/)
 
 Daily Programming Challenge
 
