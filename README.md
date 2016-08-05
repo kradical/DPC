@@ -1,4 +1,6 @@
-# DPC
+# Daily Programmer
+https://www.reddit.com/r/dailyprogrammer
+
 [![Language](https://img.shields.io/badge/language-python-brightgreen.svg?style=flat
 )](https://www.python.org)
 
